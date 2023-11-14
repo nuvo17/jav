@@ -1,0 +1,35 @@
+body {
+    background-color: aliceblue;
+    margin-top: 150px; 
+    padding-left: 700px;
+    background-image: url(https://www.txpremiermortgage.com/wp-client_data/21100/1423/uploads/2022/09/rising-interest-rates.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;   
+    
+}
+
+h1{
+    color: white;
+}
+
+
+div {
+    background-color: blueviolet;
+    border: 3px solid black;
+    text-align: center;
+    width: 350px;
+    height: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+    background-color: black;
+    color: white;
+    width: 90px;
+    height: 30px;
+}
+
+h2{
+    border: 2px solid white;
+    color: white;
+}
